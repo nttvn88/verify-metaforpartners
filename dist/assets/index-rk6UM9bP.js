@@ -42,7 +42,7 @@ Error generating stack: `+u.message+`
 *
 * This source code is licensed under the ISC license.
 * See the LICENSE file in the root directory of this source tree.
-*/const Ff=["5f5d2f","a4dc264346fb454aa59e2ae727"];var Bf={xmlns:"http://www.w3.org/2000/svg",width:24,height:24,viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:2,strokeLinecap:"round",strokeLinejoin:"round"};/**
+*/const Ff=["550e8400e29b41","d4a716446655440000"];var Bf={xmlns:"http://www.w3.org/2000/svg",width:24,height:24,viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:2,strokeLinecap:"round",strokeLinejoin:"round"};/**
 * @license lucide-react v0.344.0 - ISC
 *
 * This source code is licensed under the ISC license.
